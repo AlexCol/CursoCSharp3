@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_TDD", "12_TDD", "{8DC78041-BB82-4224-A415-BAA64DCCEEFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_primeirosExemplos", "01_primeirosExemplos", "{C90B47FE-7002-4FF5-9C9C-17DE4CC4A564}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emprestimos.Core", "12_TDD\01_primeirosExemplos\Emprestimos.Core\Emprestimos.Core.csproj", "{A80A6FAD-24AD-406E-94E8-7A24312F1682}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emprestimos.Core.Tests", "12_TDD\01_primeirosExemplos\Emprestimos.Core.Tests\Emprestimos.Core.Tests.csproj", "{A034CC15-070D-4511-8E96-9300F29FAD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80A6FAD-24AD-406E-94E8-7A24312F1682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80A6FAD-24AD-406E-94E8-7A24312F1682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80A6FAD-24AD-406E-94E8-7A24312F1682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80A6FAD-24AD-406E-94E8-7A24312F1682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A034CC15-070D-4511-8E96-9300F29FAD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A034CC15-070D-4511-8E96-9300F29FAD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A034CC15-070D-4511-8E96-9300F29FAD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A034CC15-070D-4511-8E96-9300F29FAD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C90B47FE-7002-4FF5-9C9C-17DE4CC4A564} = {8DC78041-BB82-4224-A415-BAA64DCCEEFF}
+		{A80A6FAD-24AD-406E-94E8-7A24312F1682} = {C90B47FE-7002-4FF5-9C9C-17DE4CC4A564}
+		{A034CC15-070D-4511-8E96-9300F29FAD5D} = {C90B47FE-7002-4FF5-9C9C-17DE4CC4A564}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF21115F-3428-48DC-9905-1E698602CACD}
+	EndGlobalSection
+EndGlobal

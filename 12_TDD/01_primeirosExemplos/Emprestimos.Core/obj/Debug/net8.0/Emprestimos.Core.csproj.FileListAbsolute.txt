@@ -1,0 +1,12 @@
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\bin\Debug\net8.0\Emprestimos.Core.deps.json
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\bin\Debug\net8.0\Emprestimos.Core.dll
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\bin\Debug\net8.0\Emprestimos.Core.pdb
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.AssemblyInfoInputs.cache
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.AssemblyInfo.cs
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.csproj.CoreCompileInputs.cache
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.sourcelink.json
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.dll
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\refint\Emprestimos.Core.dll
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.pdb
+C:\Alexandre\C#\CursoCSharp3\12_TDD\01_primeirosExemplos\Emprestimos.Core\obj\Debug\net8.0\ref\Emprestimos.Core.dll

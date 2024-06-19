@@ -1,0 +1,19 @@
+
+pra iniciar o projeto de testes
+dotnet new xunit -o NomeProjeto
+
+lembrar de deixar ambos na mesma sln
+
+adicionar o projeto principal nas dependencias do projeto de testes
+<ProjectReference Include="..\Emprestimos.Core\Emprestimos.Core.csproj" />
+(após isso, será possívvel usar no projeto de testes as classes do projeto principal)
+
+executar os testes:
+dotnet test
+ou //para vir apenas o metodo e se deu falha ou não (para detalhado, ai rodar o de cima)
+dotnet test --verbosity quiet
+
+ou pode user a aba lateral do vsCode de testes para executar
+
+
+dotnet new xunit -o Emprestimos.Core.Tests
