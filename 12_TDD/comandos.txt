@@ -16,4 +16,7 @@ dotnet test --verbosity quiet
 ou pode user a aba lateral do vsCode de testes para executar
 
 
+nugget> pacote Moq
+para testes de interfaces de banco de dados
+
 dotnet new xunit -o Emprestimos.Core.Tests
