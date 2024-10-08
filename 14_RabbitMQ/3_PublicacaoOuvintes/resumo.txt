@@ -1,0 +1,3 @@
+simula chat
+
+assim todos os ouvintes recebem a informação ao mesmo tempo

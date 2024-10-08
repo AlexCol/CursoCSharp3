@@ -1,0 +1,2 @@
+balanço de carga
+apenas um consumidor recebe a mensagem
